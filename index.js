@@ -1,3 +1,3 @@
-const cookies = require('cookies');
+const cookies = require('./lib/cookies');
 
 module.exports = cookies;

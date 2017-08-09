@@ -1,0 +1,29 @@
+{
+  "name": "cookies-parser",
+  "version": "1.0.0",
+  "description": "Phantomjs cookies generator",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:x-cold/cookies-parser.git"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "keywords": [
+    "cookies"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/x-cold/cookies-parser#readme",
+  "author": "x-cold <lxstart@outlook.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "tough-cookie": "^2.3.2"
+  }
+}
