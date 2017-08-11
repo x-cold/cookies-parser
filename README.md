@@ -53,3 +53,19 @@ console.log(result);
     secure: false,
     expires: 'Infinity' } ]
 ```
+
+## 3. Test
+
+### 3.1 Units Test
+
+```
+npm test
+```
+
+### 3.2 Coverage
+
+```
+npm run cov && npm run report
+```
+
+ps：If inneed, remove the `coverage` folder.
