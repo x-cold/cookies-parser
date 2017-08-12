@@ -65,7 +65,5 @@ npm test
 ### 3.2 Coverage
 
 ```
-npm run cov && npm run report
+npm run ci
 ```
-
-ps：If inneed, remove the `coverage` folder.
