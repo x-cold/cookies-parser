@@ -3,7 +3,7 @@
  */
 
 const should = require('should');
-const cookiesParser = require('../');
+const cookiesParser = require('../').parse;
 
 describe('Cookies Parser', () => {
   it('should get an array and not be empty', () => {
