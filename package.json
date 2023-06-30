@@ -28,7 +28,7 @@
     "registry": "http://registry.npmjs.org/"
   },
   "dependencies": {
-    "tough-cookie": "^2.3.2"
+    "tough-cookie": "^4.1.3"
   },
   "devDependencies": {
     "istanbul": "^0.4.5",
